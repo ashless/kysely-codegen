@@ -92,6 +92,7 @@
     "upvote",
     "varbinary",
     "varbit",
-    "vitest"
+    "vitest",
+    "ashlesss"
   ]
 }
